@@ -15,3 +15,11 @@ From the root folder:
 
     jupyter notebook
 
+## Content
+
+We've created multiple folders, each one contains a deep overview on a specific theme.
+
+- Series
+- DataFrame
+
+
